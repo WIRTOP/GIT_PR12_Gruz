@@ -1,6 +1,6 @@
-*PR12_GIT_Gruzdev:two_men_holding_hands:*
-**GITHUB**
-~~Здесь что то написано~~
+#*PR12_GIT_Gruzdev:two_men_holding_hands:*
+##**GITHUB**
+###~~Здесь что то написано~~
 ![cat](https://i.pinimg.com/originals/11/f7/14/11f714ee97e9fb151973a3c7e39e786b.jpg)
 | Авто   | Модель | Цена    |
 |--------|--------|---------|
