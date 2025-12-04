@@ -11,5 +11,5 @@
 `Console.WriteLine("Kisay")`
 `Myr-myr`
 
-Это никита [Никита дает жару в Городце](https://vk.com/wall-108998119_621349)
+Это Ваня [Он расскажет о себе и Звл](https://vk.com/wall-108998119_621349](https://vk.com/video-184225789_456244477))
 :hankey::hankey::hankey::hankey: :trollface: :trollface: :trollface:
